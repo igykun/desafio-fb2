@@ -1,6 +1,7 @@
 # desafio-fb-auth
 
-This template should help get you started developing with Vue 3 in Vite.
+https://fir-auth-d83ed.web.app
+proyecto levantado con firebase hosting
 
 ## Recommended IDE Setup
 
